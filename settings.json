@@ -8,7 +8,7 @@
   "server": {
     "ip": "aanaron.aternos.me",
     "port": 33661,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
